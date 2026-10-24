@@ -1,0 +1,1 @@
+timestamp,sample_id,soil_type,sample_preparation,temperature_c,moisture_raw_adc,ec_raw_adc,reference_ec_value,reference_ec_unit,led_status,notes,operator
